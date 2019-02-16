@@ -55,31 +55,3 @@ body {
   font-size:calc(2em + 1vw);
   padding:32px;
 }
-
-/* .style {
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    min-height: 100vh;
-    padding: 32px;
-    transition-property: color, background-color;
-    transition-timing-function: ease-out;
-    transition-duration: 1s, .5s;
-    cursor: pointer;
-    -webkit-user-select: none;
-    user-select: none;
-    color: #424c5e;
-    background-color: #beb6a8;
-} */
-
-/* .fontStyle {
-    font-size: calc(2em + 1vw);
-    padding: 32px;
-    color: #7ecc8c;
-    background-color: #863378;
-    transition-property: color, background-color;
-    transition-timing-function: ease-out;
-    transition-duration: 1s, .5s;
-} */
